@@ -1,0 +1,6 @@
+Open=4:00:00pm
+Close=6:00:00pm
+MonitorWindowSec=1
+Rate=10
+Username=Grigor
+Password=1234
